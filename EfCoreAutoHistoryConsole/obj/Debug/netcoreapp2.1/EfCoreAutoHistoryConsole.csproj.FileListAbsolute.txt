@@ -1,0 +1,11 @@
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\bin\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.deps.json
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\bin\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.runtimeconfig.json
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\bin\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.runtimeconfig.dev.json
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\bin\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.dll
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\obj\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.csprojAssemblyReference.cache
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\obj\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.csproj.CoreCompileInputs.cache
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\obj\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.AssemblyInfoInputs.cache
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\obj\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.AssemblyInfo.cs
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\bin\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.pdb
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\obj\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.dll
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreAutoHistoryConsole\obj\Debug\netcoreapp2.1\EfCoreAutoHistoryConsole.pdb
